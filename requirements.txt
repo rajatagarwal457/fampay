@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+requests
+flask-migrate
+python-dotenv
+flask_apscheduler
